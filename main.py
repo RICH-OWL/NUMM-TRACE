@@ -44,4 +44,4 @@ print (gn + "\t RICHOWL TEAM" + rd + "\n\t[&] Coded By RICHOWL" + mag + "\n\t[-]
 number = input(rd + "[$] Enter your Phone With Country Code\n\t Example : +981234567890\n " + bl + "\n- >  " + gn )
 
 
-print (yl + get_info_phone(number , operator(number) + cv
+print (yl + get_info_phone(number , operator(number) + cv))
