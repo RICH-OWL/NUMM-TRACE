@@ -10,7 +10,7 @@ find needed information like country , operator
 # INSTALLATION
 
 git clone https://github.com/RICH-OWL/NUMM-TRACE/
-cd trace_num
+cd NUMM-TRACE
 
 pip3 install -r requirements.txt
 
